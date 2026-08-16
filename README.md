@@ -1,4 +1,4 @@
-# VEX — Personal Rule-Based AI Chatbot
+#Project Title: VEX — Personal Rule-Based AI Chatbot
 
 ## Project Overview
 
